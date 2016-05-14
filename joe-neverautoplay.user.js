@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name NeverEverAutoplay for JoeMonster TV
 // @description Wyłącza wkurzający autoplay w MonsterTV
-// @include http://*.joemonster.org/filmy/*
+// @include http://*joemonster.org/filmy/*
 // ==/UserScript== 
 
 
