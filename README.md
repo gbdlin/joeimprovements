@@ -10,6 +10,6 @@ Po zainstalowaniu odpowiedniej wtyczki wystarczy kliknąć w link poniżej i pot
 
 ## NeverEverAutoPlay
 
-[Instaluj](raw/master/joe-neverautoplay.user.js)
+[Instaluj](https://github.com/gbdlin/joeimprovements/raw/master/joe-neverautoplay.user.js)
 
 Wyłącza raz na zawsze autoplay w JoeMonsterowej TV
